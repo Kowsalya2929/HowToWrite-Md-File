@@ -355,7 +355,7 @@ let y = 4
 ![Relative](/flower.png)
 
 Output:
-<img src=”https://a.com” alt=”Alt” />
+<img src=”https://portfolio-react-bspc.onrender.com/static/media/flower1contact.278b2f240b5ad59bcab9.png” alt=”Alt” />
 <img src=”/flower.png” alt=”Relative” />
 ```
 
